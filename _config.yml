@@ -2,9 +2,9 @@ title:              PB&J Time
 email:              peterbjang@gmail.com
 description:        by Peter B. Jang
 author:             Peter B. Jang
-baseurl:            "/home"
+baseurl:            "/home/"
 url:                "https://byujan.github.io"
-remote_theme:              jekyll-theme-clean-blog
+theme:              jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   SBootstrap
