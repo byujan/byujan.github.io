@@ -1,9 +1,10 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://blackrockdigital.github.io"
+title:              PB&J Time
+email:              peterbjang@gmail.com
+description:        by Peter B. Jang
+author:             Peter B. Jang
+baseurl:            "/home"
+url:                "https://byujan.github.io"
+theme:              jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   SBootstrap
