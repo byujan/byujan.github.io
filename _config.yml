@@ -4,7 +4,7 @@ description:        by Peter B. Jang
 author:             Peter B. Jang
 baseurl:            "/home"
 url:                "https://byujan.github.io"
-theme:              jekyll-theme-clean-blog
+remote_theme:              jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   SBootstrap
@@ -22,4 +22,5 @@ paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-include-cache
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
